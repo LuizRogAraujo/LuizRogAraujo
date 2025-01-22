@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuizRogAraujo
-- 👀 I’m interested in Artifial Inteligence and Robotics
+- 👀 I’m interested in Artificial Inteligence and Robotics
 - 🌱 I’m currently learning Probabilistic Robotics and GPT
 - 💞️ I’m looking to collaborate on autonomos robo
 - 📫 How to reach me luiz.r.araujo2@gmail.com
